@@ -10,6 +10,10 @@ I'm a Software Engineer with a passion for new computing platforms, human-comput
 - **University of Chicago**  
   Bachelor’s in Computer Science (Honors), 2024
 
+## 💼 Experience
+- **Undergraduate Researcher, Novel Device for Huamn Computer Interaction at AxLab**
+- **Software Engineering Intern at Kargo, Programmatic Advertising**  
+
 ## 📫 Contact Me
 - LinkedIn: [[linkedin.com/in/emiliefaracci](https://www.linkedin.com/in/emilie-faracci/)]
 
