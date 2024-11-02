@@ -10,6 +10,8 @@ I'm a Software Engineer with a passion for new computing platforms, human-comput
 ## 🎓 Education
 - **University of Chicago**  
   Bachelor’s in Computer Science (Honors), 2024
+    - specialization in Human-Computer Interaction
+    - minor in Anthropology 
 
 ## 💼 Experience
 - **Undergraduate Researcher,** Novel Device for Huamn Computer Interaction at AxLab
