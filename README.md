@@ -1,6 +1,7 @@
 # Hi there, I'm Emilie! 👋
 I'm a Software Engineer with a passion for new computing platforms, human-computer interaction, and impactful tech solutions. 
-- 😄 Pronouns: she/her
+- Pronouns: she/her
+- Languages: English, French, and Mandarin
 
 ## 🔧 Tech Stack
 - **Languages**: Python, JavaScript, C++, SQL, HTML, CSS, C, GoLang, C#, Haskell, OCaml, Swift
@@ -11,8 +12,8 @@ I'm a Software Engineer with a passion for new computing platforms, human-comput
   Bachelor’s in Computer Science (Honors), 2024
 
 ## 💼 Experience
-- **Undergraduate Researcher, Novel Device for Huamn Computer Interaction at AxLab**
-- **Software Engineering Intern at Kargo, Programmatic Advertising**  
+- **Undergraduate Researcher,** Novel Device for Huamn Computer Interaction at AxLab
+- **Software Engineering Intern,** Programmatic Advertising at at Kargo
 
 ## 📫 Contact Me
 - LinkedIn: [[linkedin.com/in/emiliefaracci](https://www.linkedin.com/in/emilie-faracci/)]
