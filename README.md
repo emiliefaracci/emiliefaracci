@@ -1,16 +1,23 @@
-## Hi there 👋
+# Hi there, I'm Emilie! 👋
+I'm a Software Engineer with a passion for human-computer interaction and impactful tech solutions.
+- 😄 Pronouns: she/her
+
+## 🔧 Tech Stack
+- **Languages**: Python, JavaScript, C++, SQL, HTML, CSS, C, GoLang, C#, Haskell, OCaml, Swift
+- **Tools**: TensorFlow, OpenCV, Snowflake, Docker, Kubernetes, Postman, CAD (Rhino & Fusion 360), Arduino, Unity3D, Figma
+
+## 🎓 Education
+- **University of Chicago**  
+  Bachelor’s in Computer Science (Honors), 2024
+
+## 📫 Contact Me
+- LinkedIn: [[linkedin.com/in/emiliefaracci](https://www.linkedin.com/in/emilie-faracci/)]
+
+## 👋 Let's Connect!
+I'm always open to discussing tech, projects, or potential collaborations. Feel free to reach out!
 
 <!--
-**emiliefaracci/emiliefaracci** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
 -->
