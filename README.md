@@ -1,5 +1,5 @@
 # Hi there, I'm Emilie! 👋
-I'm a Software Engineer with a passion for human-computer interaction and impactful tech solutions.
+I'm a Software Engineer with a passion for new computing platforms, human-computer interaction, and impactful tech solutions. 
 - 😄 Pronouns: she/her
 
 ## 🔧 Tech Stack
