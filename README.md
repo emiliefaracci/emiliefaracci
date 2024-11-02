@@ -17,6 +17,7 @@ I'm a Software Engineer with a passion for new computing platforms, human-comput
 
 ## 📫 Contact Me
 - LinkedIn: [[linkedin.com/in/emiliefaracci](https://www.linkedin.com/in/emilie-faracci/)]
+- Portfolio Website: [[emiliefaracci.com](https://www.emiliefaracci.com/)]
 
 ## 👋 Let's Connect!
 I'm always open to discussing tech, projects, or potential collaborations. Feel free to reach out!
