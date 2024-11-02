@@ -14,7 +14,7 @@ I'm a Software Engineer with a passion for new computing platforms, human-comput
     - minor in Anthropology 
 
 ## 💼 Experience
-- **Undergraduate Researcher,** Novel Device for Huamn Computer Interaction at AxLab
+- **Undergraduate Researcher,** Novel Device for Human Computer Interaction at AxLab
 - **Software Engineering Intern,** Programmatic Advertising at at Kargo
 
 ## 📫 Contact Me
